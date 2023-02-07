@@ -4,6 +4,6 @@ Um projeto Javascript desenvolvido por mim na Alura. O Robotron 2000 é um robô
 
 ## Página do projeto
 
-Clique no link abaixo e ajudeo nosso robô a proteger a humanidade.
+Clique no link abaixo e ajude o nosso robô a proteger a humanidade.
 
 [https://yapeansa.github.io/projetoRobotron2000/](https://yapeansa.github.io/projetoRobotron2000/)
