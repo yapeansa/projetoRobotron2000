@@ -209,6 +209,29 @@ main {
     margin: 10px 0 0;
 }
 
+.botoes {
+    display: flex;
+    position: fixed;
+    bottom: 2%;
+    right: 5%;
+    column-gap: 16px;
+}
+
+.alterar {
+    padding: 15px;
+    background: #000;
+    border: 2px solid #FFF;
+    color: #FFF;
+    font-size: 15px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.alterar:hover {
+    background: #FFF;
+    color: #000;
+}
+
 @media screen and (max-width: 1600px) {
     body { 
         font-size: 14px;
