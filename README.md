@@ -1,6 +1,6 @@
 # Projeto Robotron 2000
 
-Um projeto Javascript desenvolvido por mim na Alura. Construção de um robô para proteger a Terra de uma invasão alienígena.
+Um projeto Javascript desenvolvido por mim na Alura. O Robotron 2000 é um robô que protegerá a Terra de uma invasão alienígena.
 
 ## Página do projeto
 
